@@ -1,0 +1,22 @@
+   {
+    "name": "MyBonik.Com",
+    "short_name": "MyBonik",
+    "description": "Trusted & Secure eCommerce Platform",
+    "icons": [
+        {
+            "src": "https://mybonik.com/pwa/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://mybonik.com/pwa/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.mybonik.com"
+}
